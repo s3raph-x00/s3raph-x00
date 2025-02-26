@@ -1,6 +1,6 @@
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s3raph-x00&theme=dark&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s3raph-x00&theme=dark&layout=compact)
 
-![s3aph's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3raph-x00&theme=dark)
+![s3aph's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3raph-x00&theme=dark&rank_icon=percentile)
 
 <!--
 **s3raph-x00/s3raph-x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
