@@ -1,4 +1,4 @@
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s3raph-x00&theme=dark)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s3raph-x00&theme=dark&layout=compact)]
 
 ![s3aph's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3raph-x00&theme=dark)
 
