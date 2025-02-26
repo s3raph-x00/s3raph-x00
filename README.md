@@ -1,3 +1,5 @@
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s3raph-x00&theme=dark)]
+
 ![s3aph's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3raph-x00&theme=dark)
 
 <!--
