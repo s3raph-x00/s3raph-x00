@@ -8,6 +8,13 @@
 </p>
 
 </br>
+<p align="center">
+  <a href="">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3raph-x00&theme=dark&layout=compact" />
+  </a>
+</p>
+
+</br>
 
 ### Project Status: ###
 | Project Name | Status   | Documentation | Timeline (Goal) |
@@ -17,10 +24,3 @@
 | BFT          | On-Hold  | Up To Feature | N/A             |
 | YAAAT        | On-Hold  | Needs Work    | N/A             |
 | Redacted     | EOS      | Finished      | N/A (Done)      |
-
-</br>
-<p align="center">
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3raph-x00&theme=dark&layout=compact" />
-  </a>
-</p>
