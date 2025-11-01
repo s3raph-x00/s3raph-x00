@@ -7,8 +7,8 @@
 </a>
 
 ### Project Status: ###
-<br />[<redacted>]:         On Going
-<br />[<redacted>]:         On Going
+<br />[redacted]:           On Going
+<br />[redacted]:           On Going
 <br />[YAAAAT]:             On Hold
 <br />[Battlefield Triage]: On Hold
-<br />[<redacted>]:         Done
+<br />[redacted]:           Done
