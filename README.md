@@ -7,7 +7,7 @@
 </a>
 </p>
 </br>
-<p align="center">
+
 ### Project Status: ###
 | Project Name | Status   | Documentation | Timeline (Goal) |
 |--------------|----------|---------------|-----------------|
@@ -16,7 +16,7 @@
 | BFT          | On-Hold  | Up To Feature | N/A             |
 | YAAAT        | On-Hold  | Needs Work    | N/A             |
 | Redacted     | EOS      | Finished      | N/A (Done)      |
-</p>
+
 </br>
 <p align="center">
 <a href="">
