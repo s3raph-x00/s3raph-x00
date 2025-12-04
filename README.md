@@ -1,7 +1,9 @@
 <p align="center">
   <img src="ascii.png" />
 </p>
-
+<p align="center">
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/s3raph-x00?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+</p>
 </br>
 
 ### Project Status: ###
