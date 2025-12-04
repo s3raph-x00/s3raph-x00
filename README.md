@@ -2,9 +2,8 @@
   <img src="ascii.png" />
 </p>
 
-<p align="center">
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/s3raph-x00?cardType=level-alternate&theme=graywhite&preferLogin=false&Background=000000&Text=DDDDDD48&Border=000000&Title=8D8D8DAE&Ring=DDDDDD61)](https://git.io/awesome-stats-card)
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/s3raph-x00?cardType=level-alternate&theme=graywhite&preferLogin=false&Background=000000&Text=DDDDDD48&Border=000000&Title=8D8D8DAE&Ring=DDDDDD61)](https://git.io/awesome-stats-card)
+
 </br>
 
 ### Project Status: ###
